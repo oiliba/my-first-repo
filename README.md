@@ -16,4 +16,5 @@ from Portugal
 
 Here is how you make [a link](https://twitter.com/seankross).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://pbs.twimg.com/profile_images/1018588454706401281/GW3uiDCr_400x400.jpg)
+
